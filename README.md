@@ -1,5 +1,6 @@
 # igmail
-# site live link -> sujeetmehra01.github.io/igmail
+
+# Your site is live at https://sujeetmehra01.github.io/igmail/
 
 # Gmail clone user interface with the help of (HTML, CSS, Google Fonts)
 
