@@ -1,4 +1,4 @@
-# igmail
+# Gmail Clone UI
 
 # Your site is live at https://sujeetmehra01.github.io/igmail/
 
